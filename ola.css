@@ -80,7 +80,7 @@ header {
 }
 
 .imagem_fundo {
-    background-image: url(../complementos/bg.jpg);
+    background-image: url(complementos/bg.jpg);
     height: calc(100vh - 100px);
     width: 100%;
     background-size: cover;
@@ -1122,7 +1122,7 @@ header {
 /*Mapa local*/
 
 .map_local {
-    background-image: url(../complementos/mapa.jpg);
+    background-image: url(complementos/mapa.jpg);
     background-size: cover;
     background-position: center;
     padding: 30px 0;
